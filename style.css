@@ -1,0 +1,42 @@
+header{
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+}
+header nav a{
+    text-decoration: none;
+    color: #da0000 ;
+}
+/* slider  */
+.carousel-control-prev-icon , .carousel-control-next-icon {
+    background-image: none;
+}
+/* main category  */
+.jadval ,.img-container, .border-gray{
+    border: 1px solid #cacaca;
+}
+.border-left-gray{
+    border-left: 1px solid #cacaca ;
+}
+.border-bottom-gray{
+    border-bottom: 1px solid #cacaca ;
+}
+.red-bg{
+    background-color: #da0000 !important;
+}
+.icons-shopping-card span{
+    color: #da0000;
+}
+.banner img{
+    object-position: center;
+    object-fit: contain;
+}
+.cake{
+    background: url(assets/cake.jpg);
+    background-size: cover;
+    background-position: top;
+    background-color: rgba(0, 0, 0, 0.653);
+    background-blend-mode: multiply;
+}
+.book-cake{
+    border: 6px solid rgb(0, 9, 87);
+}
+/* footer ---------------------------- */
